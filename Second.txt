@@ -5,3 +5,5 @@ Commit: "Snapshot" dari perubahan kode yang Anda simpan.
 Branch: Jalur pengembangan terpisah yang memungkinkan Anda bekerja tanpa mengganggu kode utama.
 
 Merge: Menggabungkan perubahan dari satu branch ke branch lainnya.
+
+Apalagi dih
